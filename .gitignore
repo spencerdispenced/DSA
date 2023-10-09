@@ -2,7 +2,7 @@ test_playground.py
 node_modules/
 *.exe
 !package-lock.json
-/.vscode
+*.vscode
 /.vs
 *.vs
 obj/
